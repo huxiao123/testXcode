@@ -1,6 +1,6 @@
 {\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
 {\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \deftab720
 \pard\pardeftab720\sl280\partightenfactor0
@@ -11,5 +11,6 @@ Git is free software distributed under the GPL.\
 Git has a mutable index called stage.\
 dv\
 \pard\pardeftab720\sl280\partightenfactor0
-\cf2 \outl0\strokewidth0 \strokec2 Creating a new branch is quick and simple.\
+\cf0 Creating a new branch is quick and simple.\
+A\
 }
